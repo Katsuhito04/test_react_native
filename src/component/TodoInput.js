@@ -10,12 +10,12 @@ import {
 const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
-    padding: 20,
+    padding: 20
   },
   textInput: {
     flex: 3,
     backgroundColor: '#FFF',
-    marginRight: 5,
+    marginRight: 5
   },
   button: {
     flex: 1,
@@ -24,11 +24,11 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     paddingTop: 10,
-    paddingBottom: 10,
+    paddingBottom: 10
   },
   buttonText: {
     color: '#FFF',
-    fontWeight: '500',
+    fontWeight: '500'
   }
 });
 
